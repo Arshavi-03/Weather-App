@@ -1,0 +1,34 @@
+body{
+    background-image: url("nature6.jpg") ;
+    background-size: cover;
+}
+.card{
+    background-color: #eaeaea;
+    opacity: 0.6; 
+    font-weight: bolder;
+    -webkit-text-fill-color: black;
+    display:block;
+}
+.container-fluid{
+    background-color: rgba(59, 65, 148, 0.211);
+
+}
+.table-responsive {
+    opacity:0.6;
+}
+.abc{
+    font-weight: bolder;
+    text-align: center;
+    justify-content: center;
+    color: hwb(251 16% 52%);
+    background-color: #eaeaea;
+    opacity: 0.6;
+}
+.text{
+    opacity: 1;
+    font-weight: bolder;
+}
+#text1{
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
